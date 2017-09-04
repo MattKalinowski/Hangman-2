@@ -1,0 +1,12 @@
+.theme {
+    -fx-background-image:url('./HangmanPhotos/menuBackground.jpg');
+}
+.theme2 {
+    -fx-background-image:url('./HangmanPhotos/background.jpg');
+}
+.button{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+}
