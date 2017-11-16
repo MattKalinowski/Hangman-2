@@ -1,11 +1,11 @@
-# Hangman-2
+# Hangman 2
 
 Hangman 2 is a second edition of my console Hangman game. It was created for the purposes of learning JavaFX and SQL.
 
 
 ## Prerequisites
 
-To build this project, you need to instal NetBeans IDE
+To build this project, you need to install NetBeans IDE
 
 ## How it works
 
