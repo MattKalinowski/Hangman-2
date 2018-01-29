@@ -1,6 +1,6 @@
 # Hangman 2
 
-Hangman 2 is a second edition of my console Hangman game. It was created for the purposes of learning JavaFX and SQL.
+Hangman 2 is a second edition of my console Hangman game. It was created for the purposes of learning JavaFX, SQL as well as Java language in general.
 
 
 ## Prerequisites
